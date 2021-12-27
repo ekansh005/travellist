@@ -1,8 +1,0 @@
-<core:FragmentDefinition xmlns:core="sap.ui.core"
-    xmlns="sap.m"
-    xmlns:l="sap.ui.layout">
-    <l:VerticalLayout core:require="{handler: 'com/ekansh/travellist/ext/fragment/Custom'}">
-        <Text text="Custom" />
-        <Button text="Custom" press="handler.predefinedMethod" />
-    </l:VerticalLayout>
-</core:FragmentDefinition>

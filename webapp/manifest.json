@@ -136,14 +136,14 @@
                             "content": {
                                 "body": {
                                     "sections": {
-                                        "Custom": {
-                                            "name": "com.ekansh.travellist.ext.fragment.Custom",
+                                        "GeoMap": {
+                                            "name": "com.ekansh.travellist.ext.fragment.GeoMap",
                                             "position": {
                                                 "anchor": "Booking",
                                                 "placement": "After"
                                             },
                                             "type": "XMLFragment",
-                                            "title": "Custom Title"
+                                            "title": "Itinerary"
                                         }
                                     }
                                 }
@@ -151,8 +151,7 @@
                         }
                     }
                 }
-            },
-            "config": {}
+            }
         },
         "contentDensities": {
             "compact": true,
